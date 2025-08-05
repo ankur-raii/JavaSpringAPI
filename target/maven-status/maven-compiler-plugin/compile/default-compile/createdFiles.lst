@@ -1,0 +1,6 @@
+com\javapay\javaspringapi\JavaSpringApiApplication.class
+com\javapay\javaspringapi\model\Payment.class
+com\javapay\javaspringapi\repository\PaymentRepository.class
+com\javapay\javaspringapi\service\PaymentService.class
+com\javapay\javaspringapi\controller\PaymentController.class
+com\javapay\javaspringapi\model\Payment$PaymentBuilder.class
